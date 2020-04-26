@@ -1,4 +1,13 @@
 # AI-Knowledge-Graph
-- 构建完整的AI领域知识图谱
-- 打造AI领域的wiki百科
-- 串联AI技术及项目
+
+[切换到中文版](README_cn.md)
+
+## Objectives
+- Construct a complete map of AI domain knowledge
+- Build a complete AI wikipedia
+- Connect AI technology knowledge ( include paper) and projects
+  
+## Main Entrance of AI Knowledge Graph
+
+- [AI knowledge Graph for Chinese Users](ai_cn.md)
+- [AI Knowledge Graph for English Users](ai_en.md)
