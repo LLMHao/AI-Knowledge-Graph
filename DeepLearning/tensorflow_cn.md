@@ -4,7 +4,7 @@
 
 ## 2. [TensorFlow 安装](https://www.tensorflow.org/install)
 
-## 3. [tensorflow 2.0 API文档](https://www.tensorflow.org/versions/r2.0/api_docs/python/t)
+## 3. [tensorflow 2.0 API文档](https://www.tensorflow.org/versions/r2.0/api_docs/python/)
 
 ## 4. 教程
 
