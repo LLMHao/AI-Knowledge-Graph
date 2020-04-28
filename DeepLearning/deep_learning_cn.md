@@ -13,6 +13,7 @@
 - [Keras](keras_cn.md)
 - [PaddlePaddle](paddlepaddle_cn.md)
 - [jittor](jittor_cn.md)
+- [MegEngine](megengine_cn.md)
 
 ## 3、模型优化
 
