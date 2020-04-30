@@ -4,7 +4,7 @@
 
 - [卷积神经网络](cnn_cn.md)
 - [循环神经网络](rnn_cn.md)
-- [表示学习](representatio_learning_cn.md)
+- [表示学习](representation_learning_cn.md)
 
 ## 2、框架
 
