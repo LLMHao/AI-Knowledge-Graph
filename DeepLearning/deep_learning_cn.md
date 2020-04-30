@@ -15,10 +15,15 @@
 - [CNTK](cntk_cn.md)
 - [jittor](jittor_cn.md)
 - [MegEngine](megengine_cn.md)
-
+  
 ## 3、模型优化
 
 - [超参数优化](parameter_opt_cn.md)
 - [模型量化](model_quantization_cn.md)
 - [模型剪枝](model_pruning_cn.md)
 - [模型蒸馏](model_distillation_cn.md)
+
+## 4、部署
+
+- [TensorRT](tensorrt_cn.md)
+- [OpenVino](openvino_cn.md)
