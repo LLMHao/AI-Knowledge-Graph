@@ -3,6 +3,10 @@
 
 ## 经典论文及代码实现
 
+### Parallel Neural Text-to-Speech
+- [arxiv:Parallel Neural Text-to-Speech](https://arxiv.org/abs/1905.08459)
+- [合成效果展示](https://parallel-neural-tts-demo.github.io/)
+
 ### WaveNet
 
 #### 论文
